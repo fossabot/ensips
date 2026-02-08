@@ -1,4 +1,6 @@
 # ENSIPs
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fensips.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fensips?ref=badge_shield)
+
 
 This repository is a collection of ENSIPs (Ethereum Name Service Improvement Proposals) that have been submitted and are accepted as standard.
 
@@ -41,3 +43,6 @@ This repository pertains to standards around the ENS protocol, for DAO governanc
 ## License
 
 All ENSIPs are licensed under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fensips.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fensips?ref=badge_large)
